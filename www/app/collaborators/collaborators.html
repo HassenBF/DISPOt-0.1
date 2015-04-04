@@ -1,0 +1,72 @@
+<ion-view title="DISPOt - Liste des collaborateurs">
+    <ion-content>
+
+        <div class="button-bar">
+
+            <a class="button" ng-click ="setFilter('ASAP')" >ASAP</a>
+            <a class="button" ng-click ="setFilter('1')">1 Mois</a>
+            <a class="button" ng-click ="setFilter('3')">3 Mois</a>
+            <a class="button" ng-click ="setFilter('0')">Tous</a>
+        </div>
+        <div class="logo-main"><img src="img/logo-mini.png"></div>
+        <div class="search-box-custom">
+            <label class="item item-input">
+                <i class="icon ion-search placeholder-icon"></i>
+                <input type="text" placeholder="Search" ng-model="myfilter.competences ">
+            </label>
+        </div>
+
+       <!-- <ion-list>
+
+            <ion-item ng-repeat="collaborator in collaborators" type="item-text-wrap" href="#/app/collaborators/{{collaborator.id}}">-->
+        <div class="row list-header table-header">
+            <div class="col">   </div>
+            <div class="col" ng-click="sort('lastName')"> Nom   <i class="ion-android-funnel"></i></div>
+            <div class="col" ng-click="sort('firstName')">Prénom  <i class="ion-android-funnel"></i></div>
+            <div class="col" ng-click="sort('practice')">Practice   <i class="ion-android-funnel"></i></div>
+            <div class="col" ng-click="sort('availableDate')">Disponibilité  <i class="ion-android-funnel"></i>   </div>
+        </div>
+        <div class="list ">
+            <a class="item " ng-repeat="collaborator in collaborators |filter:myfilter |orderBy:orderProp:sortDirection " ng-show="filterDates(collaborator)"  href="#/app/collaborators/{{collaborator.id}}">
+
+                <div class="row" type="item-text-wrap" >
+
+                    <div class="col "><img class="mini-contact-photo" src="img/contact-mini.jpg"></div>
+                    <div class="col ">{{collaborator.lastName}} </div>
+                    <div class="col ">{{collaborator.firstName}}</div>
+                    <div class="col  ">{{collaborator.practice}}</div>
+                    <div class="col ">{{collaborator.availableDate}}</div>
+
+                 </div>
+            </a>
+        </div>
+
+
+        <!--<div class="item row list-header">
+            <div class="col" ng-click="sort('name')">
+                <span>Reference/Name</span>
+                <i class="icon icon-margin ion-android-arrow-dropdown-circle" ng-show="selectedSort.predicate == 'displayValue' && selectedSort.reverse == 'true'"></i>
+                <i class="icon icon-margin ion-android-arrow-dropup-circle" ng-show="selectedSort.predicate == 'displayValue' && selectedSort.reverse == 'false'"></i>
+            </div>
+            <div class="col" ng-click="sort('date')">
+                <span>Last Assessed</span>
+                <i class="icon icon-margin ion-android-arrow-dropdown-circle" ng-show="selectedSort.predicate == 'lastAssessed' && selectedSort.reverse == 'false'"></i>
+                <i class="icon icon-margin ion-android-arrow-dropup-circle" ng-show="selectedSort.predicate == 'lastAssessed' && selectedSort.reverse == 'true'"></i>
+            </div>
+        </div>
+
+
+        <ion-list class="list-alternate">
+            <ion-item ng-repeat="subject in subjectsToDisplay | orderBy:selectedSort.predicate:selectedSort.reverse |  filter: {displayValue: search.text}" ng-click="selectSubject(subject)">
+                <div class="row list-row">
+                    <div class="col">
+                        {{subject.displayValue}}
+                    </div>
+                    <div class="col">
+                        {{subject.prettyDate}}
+                    </div>
+                </div>
+            </ion-item>
+        </ion-list>-->
+    </ion-content>
+</ion-view>

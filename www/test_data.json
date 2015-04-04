@@ -1,0 +1,265 @@
+
+      [
+          {
+               "id":0,
+               "practice": "DOMBIM PU",
+               "lastName": "ABDELMOULA",
+               "firstName": "Anis",
+               "availableDate": "28/02/2015",
+               "competences": "MOE / MOA BI - Informatica, Oracle, Sql, VB/Excel, Java/Gosu, C - Assurances",
+               "english": ""
+          },
+          {
+               "id":1,
+               "practice": "DOMBIM PU",
+               "lastName": "AMOUR",
+               "firstName": "Regis",
+               "availableDate": "ASAP",
+               "competences": "ASSISTANCE MOA, CADRAGE - ETUDE DES BESOINS, CADRAGE - SPECIFICATIONS, REALISATION - CONFIGURATION,PILOTAGE - PROJECT MANAGER, PILOTAGE - PROJECT OFFICE, CONDUITE DE CHANGEMENT - STRATEGIE, CONDUITE DE CHANGEMENT - MISE EN �UVRE, MIGRATION, DEPLOIEMENT - STRATEGIE, DEPLOIEMENT - MISE EN �UVRE, ANGLAIS, COBOL, MAINFRAME,  SQL, LEASING, LOCATION LONGUE DUREE,CREDIT A LA CONSOMMATION, DELTA BANK, EVOLAN",
+               "english": ""
+          },
+          {
+               "id":2,
+               "practice": "DOMBIM CT",
+               "lastName": "BERNE",
+               "firstName": "Hugues",
+               "availableDate": "Staffed 2014",
+               "competences": "Direction de projet Assurance IARD, Pr�voyance, Sant� - CLEVA - Accompagnement du changement, Migration, pilotage de recette fonctionnelle",
+               "english": "YES"
+          },
+          {
+               "id":3,
+               "practice": "DOMBIM PU",
+               "lastName": "ANDRIEUX",
+               "firstName": "Philippe",
+               "availableDate": "ASAP",
+               "competences": "Domaines M�tier: Assurance : Titres de propri�t�, titres de cr�ances, provisions ",
+               "english": ""
+          },
+          {
+               "id":4,
+               "practice": "DOMBIM PU",
+               "lastName": "AVOUYI-DOVI ",
+               "firstName": "Eddy",
+               "availableDate": "ASAP",
+               "competences": "Technique: Java/J2EE ? ASP.NET/C# ? Struts ? Hibernate / Bases de donn�es : SQL ? PL/SQL ? MySQL ? XML /   Client : HTML ? CSS ? Javascript  ?Ajax - Environnements de d�veloppement: Outils : Eclipse ? Visual Studio ? PowerAmc 11 ? NetBeans ? MsProject / Bases de donn�es : Oracle ? SQL Server ? MySQL? Sybase / Serveurs d�application :  IIS ? Apache ? Tomcat ? Jboss ? Jonas - M�thodes d�analyse:  Merise ? UML ? Design Patterns - Recueil de besoins -  Elaboration de cahier des charges - R�daction de dossiers techniques (manuels utilisateurs, dossiers techniques)",
+               "english": "YES"
+          },
+          {
+               "id":5,
+               "practice": "DOMBIM PU",
+               "lastName": "BANNIER",
+               "firstName": "Jessica",
+               "availableDate": "ASAP",
+               "competences": "AMOA int�gration progiciel - D�ploiement - Test et recette fonctionnelle - Conduite du changement - MANTIS",
+               "english": "YES"
+          },
+          {
+               "id":6,
+               "practice": "DOMBIM CT",
+               "lastName": "BAUER",
+               "firstName": "St�phane",
+               "availableDate": "Staffed Janvier 2015",
+               "competences": "Direction de projet Off-shore - Industrialisation des projets et de leur pilotage. Refonte de SI au travers de solution progiciel - Direction M�tier BFI, Comptable, ADV, Achats, Production, Logistique - Solutions ERP/ BI compl�t�e d'architecture NTIC (EAI, BAM, BPM, Portail, �)- Mise en place de MCO - Strat�gie des syst�mes d'informations - Sch�mas directeurs/IT transformation, Gouvernance, strat�gie de migration, Trajectoire et Estimation budg�taire. Audit SI / IT Due Diligence - Cadrage, �tude d'opportunit�, choix de solution - D�finition de cadres m�thodologiques, outils/acc�l�rateurs, �v�nements.Utilisation de r�f�rentiel : ITIL, CMMI, COBIT, PMP",
+               "english": "YES"
+          },
+          {
+               "id":7,
+               "practice": "DOMBIM CT",
+               "lastName": "CALAQUE",
+               "firstName": "Renaud",
+               "availableDate": "Staffed past years 2014",
+               "competences": "DIRECTEUR DE PROGRAMME / BI ",
+               "english": "YES"
+          },
+          {
+               "id":8,
+               "practice": "DOMBIM CT",
+               "lastName": "BEKKER",
+               "firstName": "Iwan",
+               "availableDate": "01/03/2015",
+               "competences": "AMOA et MOE - Cr�dit bail, leasing,Cr�dit � la consommation, Financements structur�s - Gestion de projet - Expertise en migration de donn�es, int�gration progiciels  - D�finition de l'architecture fonctionnelle et technique cible  - Expertise en m�thodologie et outils de tests - Outils : EKIP, CASSIOPAE",
+               "english": "YES"
+          },
+          {
+               "id":9,
+               "practice": "DOMBIM PU",
+               "lastName": "BELLAGNECH ",
+               "firstName": "Imane",
+               "availableDate": "28/02/2015",
+               "competences": "Object orientend developer:Java, Gosu  /  SQL, MySQL, UML / PHP ,HTML , XML - Property and Casualty Insurance / Best practices of IT services management (ITIL V3 Foundation ) -/Bussiness software : ClaimCenter (Guidewire) , HP Quality Center ,Eclipse/NETBEANS,Xcode ",
+               "english": ""
+          },
+          {
+               "id":10,
+               "practice": "DOMBIM PU",
+               "lastName": "BEN DAIA",
+               "firstName": "Zakaria",
+               "availableDate": "Staffed Janvier 2015",
+               "competences": "Junior technico-fonctionnel mon�tique",
+               "english": "YES"
+          },
+          {
+               "id":11,
+               "practice": "DOMBIM PU",
+               "lastName": "BERGES",
+               "firstName": "Marie-Jos�",
+               "availableDate": "ASAP",
+               "competences": "Assistance � ma�trise d'ouvrage, Conduite du changement, Formations, D�ploiement de progiciels, Qualit� - Organisation - Management des processus",
+               "english": "YES"
+          },
+          {
+               "id":12,
+               "practice": "DOMBIM CT",
+               "lastName": "BILLIERE",
+               "firstName": "Philippe",
+               "availableDate": "ASAP 50%",
+               "competences": "DIRECTEUR DE PROJET / Banque /Assurance / Pilotage / Animation atelier / Gestion de projet / Transformation SI / Sch�ma Directeur / Architecture de gds syst�mes / Urbanisation / Modelisation / BPM / Architecture SOA",
+               "english": ""
+          },
+          {
+               "id":13,
+               "practice": "DOMBIM CT",
+               "lastName": "BILLIERE",
+               "firstName": "Philippe",
+               "availableDate": "Staffed Janvier 2015",
+               "competences": "DIRECTEUR DE PROJET / Banque /Assurance / Pilotage / Animation atelier / Gestion de projet / Transformation SI / Sch�ma Directeur / Architecture de gds syst�mes / Urbanisation / Modelisation / BPM / Architecture SOA",
+               "english": ""
+          },
+          {
+               "id":14,
+               "practice": "DOMBIM CT",
+               "lastName": "LE BOZEC",
+               "firstName": "Catherine",
+               "availableDate": "31/03/2015",
+               "competences": "DP AMOA / MOE Assurance - Conduite du changement Assurance de personnes, Gouvernance - Coaching de chefs de projet, Management de projets transverses -  Assistance � Ma�trise d�Ouvrage, et � Ma�trise d��uvre - Architecture technico-fonctionnelle de syst�mes d�information, Urbanisation , Audit SI",
+               "english": "YES"
+          },
+          {
+               "id":15,
+               "practice": "DOMBIM CT",
+               "lastName": "BIRAGNET",
+               "firstName": "Jean-Fran�ois",
+               "availableDate": "ASAP",
+               "competences": "Finance : Compensation interbancaire - Gestion de Projets : Strat�gies de tests - Administratives et Financi�res : Gestion de flux - Fonctionnel Banque : ABE / CORE / Inter-bancaire / SEPA / SDD - Assistance MOA",
+               "english": "YES"
+          },
+          {
+               "id":16,
+               "practice": "DOMBIM PU",
+               "lastName": "BONNIN",
+               "firstName": "Fran�ois",
+               "availableDate": "ASAP",
+               "competences": "PMO - Expertise Excel - Clarity",
+               "english": "YES"
+          },
+          {
+               "id":17,
+               "practice": "DOMBIM PU",
+               "lastName": "BOUAZZAOUI",
+               "firstName": "Zakaria",
+               "availableDate": "Staffed Janvier 2015",
+               "competences": "CP Mon�tique (DAB, GAB, serveur d'autorisation, S�curit�,Normes ISO 7816 ), Coordination, Pilotage, redaction de sp�cification, recette  ",
+               "english": ""
+          },
+          {
+               "id":18,
+               "practice": "DOMBIM PU",
+               "lastName": "BREBANT ",
+               "firstName": "Alain",
+               "availableDate": "ASAP",
+               "competences": "DP ASSURANCE /EPARGNE / IARD / PREVOYANCE.  Assistance � ma�trise d'ouvrage : cadrage, expression de besoins, d�marches, organisation : audit et d�finition de proc�dures de gestion, description de processus, coordination de projets transversaux",
+               "english": ""
+          },
+          {
+               "id":19,
+               "practice": "DOMBIM CT",
+               "lastName": "RICHARD",
+               "firstName": "Flore",
+               "availableDate": "Staffed Past Years",
+               "competences": "CP int�gration, d�ploiement - PMO - Cassiopae - Leasing",
+               "english": "YES"
+          },
+          {
+               "id":20,
+               "practice": "DOMBIM PU",
+               "lastName": "BRUN",
+               "firstName": "Fr�d�ric",
+               "availableDate": "ASAP",
+               "competences": "Cassiopae, AMOA, Cr�dit, Management de streams fonctionnels",
+               "english": "YES"
+          },
+          {
+               "id":21,
+               "practice": "DOMBIM CT",
+               "lastName": "ROFFE",
+               "firstName": "Laurent",
+               "availableDate": "05/07/2015",
+               "competences": "CP Technique UNIX, infrastucture/  Connaissance SEPA  et Capital Market : mise en place d'une usine de paiements au format SEPA  bas�e sur le progiciel SOPRA Evolan Financial et  exp�rience de plus de 5 ans sur Murex/ Pilotage, animation d'ateliers, Encadrement d'�quipes   ",
+               "english": "YES"
+          },
+          {
+               "id":22,
+               "practice": "DOMBIM CT",
+               "lastName": "ROUSSEL ",
+               "firstName": "Franck ",
+               "availableDate": "Staffed past years 2014",
+               "competences": "Directeur de projet  :  Gestion de projet , Pilotage, Organisation de workshopsDomaines Metier :  Banque et Assurance  : comptabilit�, ALM, contr�le de gestion, reportings r�glementaire et prudentiel, risque Cr�dit ",
+               "english": "Reasonnable"
+          },
+          {
+               "id":23,
+               "practice": "DOMBIM CT",
+               "lastName": "CALAQUE",
+               "firstName": "Renaud",
+               "availableDate": "ASAP 20%",
+               "competences": "DIRECTEUR DE PROGRAMME / BI ",
+               "english": "YES"
+          },
+          {
+               "id":24,
+               "practice": "DOMBIM PU",
+               "lastName": "CAMBAZARD",
+               "firstName": "Damien",
+               "availableDate": "02/03/2015",
+               "competences": "CDP PAYMENT / Management : Analyse de risques / PlanificationConception et d�veloppement : Conception Orient�e Objet / R�daction des livrables / R�daction des sp�cifications fonctionnellesProcessus m�tier : Analyse des processus",
+               "english": ""
+          },
+          {
+               "id":25,
+               "practice": "DOMBIM PU",
+               "lastName": "CARABIN",
+               "firstName": "Guillaume",
+               "availableDate": "Staffed Janvier 2015",
+               "competences": "AMOA: Animation d'ateliers avec des directions m�tiers, R�daction de sp�cification fonctionnelle, Chiffrage, Etude/ Cadrage,Gestion projet offshore, m�thode Agiles (Scrum) / Connaissance de la banque d'investissement",
+               "english": ""
+          },
+          {
+               "id":26,
+               "practice": "DOMBIM PU",
+               "lastName": "ACHARD",
+               "firstName": "Pierre",
+               "availableDate": "Staffed Past Years",
+               "competences": "MOE Int�gration Cassiopae, EKIP - Banques et organismes financiers : Banque / Cr�dit � la consommation / Domaine Cr�dits / Leasing - Environnements et outils de d�veloppement : PRO C / TOAD  - Environnements et outils de test : Quality Center / QARun - Langages : COBOL / JCL / Shell / PL-SQL - SGBD : Oracle 10g / Oracle 11g / Oracle 7 / Oracle 8i / Oracle 9i",
+               "english": "YES"
+          },
+          {
+               "id":27,
+               "practice": "DOMBIM PU",
+               "lastName": "ADDED",
+               "firstName": "Moise",
+               "availableDate": "07/04/2015",
+               "competences": "BA Managing Asset managment, Securities services, D�riv�s OTC, Obligations, Distribution de fonds, R�f�rentiels. Gestion de projet transverse � l'international, audit, cadrage, dossiers de choix, �tudes d'impact, plan d'actions, animation de comit�s.",
+               "english": "YES"
+          },
+          {
+               "id":28,
+               "practice": "DOMBIM PU",
+               "lastName": "AIT BOUAZZA",
+               "firstName": "Hasna",
+               "availableDate": "Staffed past years 2014",
+               "competences": "MOA / MOE d�cisionnel - Oracle, Informatica, Teradata, Cognos",
+               "english": ""
+          }
+     ]
+

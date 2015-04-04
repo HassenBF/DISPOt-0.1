@@ -1,0 +1,32 @@
+<!--
+  This template loads for the 'tab.pet-detail' state (app.js)
+  'pet' is a $scope variable created in the PetCtrl controller (controllers.js)
+  The PetCtrl pulls data from the Pets service (service.js)
+  The Pets service returns an array of pet data
+-->
+<ion-view title="DISPOt - Fiche collaborateur ">
+    <div class="centred-content">
+  <ion-content padding="true">
+    <div class="logo"></div>
+   <!-- <div class="col ">{{collaborator.lastName}}</div>
+    <div class="col ">{{collaborator.firstName}}</div>
+    <div class="col ">{{collaborator.practice}}</div>
+    <div class="col ">{{collaborator.availableDate}}</div>
+    <div class="col ">{{collaborator.competences}}</div>-->
+
+
+
+    <div class="row">
+      <div class="col col-offset-10"><img src="img/contact.JPG"></div>
+      <div class="col col-33.3333%"><br>{{collaborator.lastName}} <br><br> {{collaborator.firstName}} </div>
+      <div class="col col-33.3333%"><br><b>Dispo : </b>  {{collaborator.availableDate}} <br><br> <b>Practice :</b> {{collaborator.practice}}  </div>
+
+    </div>
+      <hr>
+    <div class="row">
+      <div class="col col-offset-10" ><br><b> Anglais :</b> {{collaborator.english}} <br><br> <b> Compétences : </b> {{collaborator.competences}}</div>
+    </div>
+    <!--<p><a class="button button-small icon ion-arrow-left-b" href="#/collaborators"> All Collaborators</a></p>-->
+  </ion-content>
+    </div>
+</ion-view>

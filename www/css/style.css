@@ -1,0 +1,104 @@
+/* Empty. Add your own CSS if you like */
+
+/********************************* Main Screen ****************/
+div.title.title-center.header-item {
+
+    background-color: #0096CB!important;
+}
+
+bar.bar-stable {
+    border-color: #0096CB!important;
+}
+
+button.button.icon-left.button-positive {
+    background-color: #0096cb;
+    border-color: #0096cb;
+}
+
+.logo-main{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 260px;
+    padding-top: 50px;
+
+}
+.centred-content{
+    width: 800px; !important;
+    text-align: left;!important;
+    margin : 0 auto;
+
+}
+.search-box-custom {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    font-size: x-large !important;
+    padding-top: 50px;
+    width: 440px;
+}
+
+.main-button-custom {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    font-size: x-large !important;
+    padding-top: 200px;
+    width: 315px;
+
+}
+
+button.button.icon-left {
+    height: 100px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+label.item.item-input {
+    color: #ffffff;
+    background-color: #ffffff;
+    border-bottom-width: 3px;
+    border-top-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+}
+
+.photo-holder {
+    display: inline-block
+}
+
+.main-title-center {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recherche-box-custom {
+    padding-top: 100px;
+}
+
+/**************************** Collaborators Screen ********/
+
+.table-header {
+
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.mini-contact-photo
+{
+    padding-left: 5px;
+}
+
+.custom-cell
+{
+    word-wrap: break-word; !important;
+    display:inline-block; !important;
+    width: 100px; !important;
+   vertical-align: bottom;!important;
+    text-overflow:ellipsis;
+
+}
+
+
+/********************* Details screen *********************/

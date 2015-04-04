@@ -1,0 +1,26 @@
+<div class="item row list-header">
+    <div class="col" ng-click="sort('name')">
+        <span>Reference/Name</span>
+        <i class="icon icon-margin ion-android-arrow-dropdown-circle" ng-show="selectedSort.predicate == 'displayValue' && selectedSort.reverse == 'true'"></i>
+        <i class="icon icon-margin ion-android-arrow-dropup-circle" ng-show="selectedSort.predicate == 'displayValue' && selectedSort.reverse == 'false'"></i>
+    </div>
+    <div class="col" ng-click="sort('date')">
+        <span>Last Assessed</span>
+        <i class="icon icon-margin ion-android-arrow-dropdown-circle" ng-show="selectedSort.predicate == 'lastAssessed' && selectedSort.reverse == 'false'"></i>
+        <i class="icon icon-margin ion-android-arrow-dropup-circle" ng-show="selectedSort.predicate == 'lastAssessed' && selectedSort.reverse == 'true'"></i>
+    </div>
+</div>
+
+
+<ion-list class="list-alternate">
+    <ion-item ng-repeat="subject in subjectsToDisplay | orderBy:selectedSort.predicate:selectedSort.reverse |  filter: {displayValue: search.text}" ng-click="selectSubject(subject)">
+        <div class="row list-row">
+            <div class="col">
+                {{subject.displayValue}}
+            </div>
+            <div class="col">
+                {{subject.prettyDate}}
+            </div>
+        </div>
+    </ion-item>
+</ion-list>
